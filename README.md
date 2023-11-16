@@ -3,6 +3,13 @@
 ## Introdução
 Este projeto é uma aplicação de interface gráfica para login e cadastro, utilizando a biblioteca `flet` para a construção da interface. A aplicação inclui elementos como caixas giratórias personalizadas e botões para interação do usuário.
 
+## Vídeo do Projeto
+
+<video width="320" height="240" controls>
+  <source src="Projeto-login.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+
 ## Estrutura do Código
 
 ### 1. Importação de Bibliotecas
